@@ -1,0 +1,22 @@
+h1 {
+  color: red;
+}
+.black-border {
+  width: 250px;
+  padding: 10px;
+  text-align: center;
+  border: 3px dashed #ccc;
+}
+body {
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+}
+header,
+footer {
+  background-color: darkgrey;
+}
+main {
+  background-color: white;
+}
+footer {
+  font-size: 24px;
+}
